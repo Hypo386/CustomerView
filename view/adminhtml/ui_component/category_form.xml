@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+/**
+ * Copyright © Acesofspades. All rights reserved.
+ * See LICENSE.txt for license details.
+ */
+-->
+<form xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Ui:etc/ui_configuration.xsd">
+    <settings>
+        <buttons>
+            <button name="customerView" class="Aos\CustomerView\Block\Adminhtml\Category\Edit\Button\CustomerView"/>
+        </buttons>
+    </settings>
+</form>
